@@ -1,0 +1,8 @@
+{
+  "name": "default",
+  "type": "sqlite",
+  "database": "server/database/db.sqlite",
+  "cli": {
+    "migrationsDir": "server/database/migrations/"
+  }
+}
